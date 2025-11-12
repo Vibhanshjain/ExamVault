@@ -24,3 +24,21 @@ web3>=6.0.0
 # File handling
 Pillow>=10.0.0
 
+
+
+# Additional dependencies for enhanced AI comparison
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Async and performance
+aiohttp>=3.8.0
+celery>=5.3.0
+redis>=4.5.0
+
+# Data validation
+pydantic>=2.0.0
+marshmallow>=3.19.0
